@@ -1,0 +1,17 @@
+Conditional statements are a fundamental concept in programming that allow the execution of different blocks of code based on whether a specified condition evaluates to true or false. In most programming languages, the common types of conditional statements are "if," "else if" (or "elif"), and "else."
+
+let x = 10;
+
+if (x > 5) {
+    console.log("x is greater than 5");
+}
+
+
+
+let x = 3;
+
+if (x % 2 === 0) {
+    console.log("x is even");
+} else {
+    console.log("x is odd");
+}
